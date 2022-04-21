@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shrinivas Hegde
 - 👀 I’m interested in Web Application Development
 - 🌱 I’m currently learning react.js (MERN Stack Development)
-- 💞️ I’m looking to collaborate on JavaScript, React related public projects
+- 💞️ I’m looking to collaborate on JavaScript, React related open source projects
 - 📫 How to reach me - you can email me : mkshrinivashegde@gmail.com
 
 <!---
